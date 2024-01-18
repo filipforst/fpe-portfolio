@@ -1,0 +1,59 @@
+h6{
+color: #000;
+text-align: center;
+font-family: Inter;
+font-size: 35px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-top: 2%;
+}
+
+#email{
+    width: 100%;
+    height: 50px;
+    text-align: left;
+    border: 1px solid #000;
+    background: #FFF;
+    margin-top: 1%;
+    
+    
+}
+
+#zprava{
+    margin-top: 1%;
+    width: 100%;
+    height: 300px;
+    border: 1px solid #000;
+    background: #FFF;
+    resize: none;
+}
+
+button{
+margin-top: 2%;
+background-color: #7D7D7D;
+width: 10%;
+height: 60px;
+text-align: center;
+border: none;
+color: #FFF;
+font-family: Inter;
+font-size: 26px;
+font-style: normal;
+font-weight: 400;
+}
+button:hover{
+    background-color: #4b4b4b;
+}
+
+#tlacitko{
+    text-align: right;
+}
+.velikost{
+   width: 80%;
+   height: 600px;
+   text-align: center;
+   margin: auto;
+}
+
+
